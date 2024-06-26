@@ -1,0 +1,162 @@
+[
+
+{
+
+"city": "دمشق" ,
+"details": "150م" ,
+"price": "10000000" ,
+"area": "ابو رمانة" ,
+"gar": "نعم" ,
+"floor": "الأول" ,
+"Space": "م14" ,
+"furnished ": "نعم" ,
+"Property": "طابو" 
+
+
+},
+{
+"city": "حمص" ,
+"details": "250م" ,
+"price": "70000000" ,
+"area": "ابو رمانة" ,
+"gar": "نعم" ,
+"floor": "الأول" ,
+"Space": "م24" ,
+"furnished ": "نعم" ,
+"Property": "طابو" 
+
+
+
+},
+
+{
+    "city": "حماه" ,
+    "details": "150م" ,
+    "price": "10000000" ,
+    "area": "الزهرة" ,
+    "gar": "نعم" ,
+    "floor": "الأول" ,
+    "Space": "م19" ,
+    "furnished ": "نعم" ,
+    "Property": "طابو" 
+    
+    
+    
+    }
+
+    ,
+
+{
+    "city": "حماه" ,
+    "details": "150م" ,
+    "price": "10000000" ,
+    "area": "عين كصارين" ,
+    "gar": "نعم" ,
+    "floor": "الأول" ,
+    "Space": "م14" ,
+    "furnished ": "نعم" ,
+    "Property": "طابو" 
+    
+    
+    
+    }
+    ,
+
+{
+    "city": "حمص" ,
+    "details": "150م" ,
+    "price": "20000000" ,
+    "area": "رمانة ابو " ,
+    "gar": "لا" ,
+    "floor": "الخامس" ,
+    "Space": "م10" ,
+    "furnished ": "لا" ,
+    "Property": "طابو" 
+    
+    
+    
+    }
+    ,
+{
+    "city": "إدلب" ,
+    "details": "170م" ,
+    "price": "30000000" ,
+    "area": "اريحا " ,
+    "gar": "لاء" ,
+    "floor": "الثاني" ,
+    "Space": "م14" ,
+    "furnished ": "نعم" ,
+    "Property": "طابو" 
+    
+    
+    
+    }
+    
+    ,
+
+{
+    "city": "دمشق" ,
+    "details": "150م" ,
+    "price": "10000000" ,
+    "area": "ابو رمانة" ,
+    "gar": "نعم" ,
+    "floor": "الأول" ,
+    "Space": "م14" ,
+    "furnished ": "نعم" ,
+    "Property": "طابو" 
+    
+    
+    
+    }
+    ,
+
+{
+    "city": "درعا" ,
+    "details": "300م" ,
+    "price": "1000000000" ,
+    "area": "دابوق " ,
+    "gar": "نعم" ,
+    "floor": "الرابع" ,
+    "Space": "م30" ,
+    "furnished ": "نعم" ,
+    "Property": "طابو" 
+    
+    
+    
+    }
+    ,
+
+{
+    "city": "دير الزور" ,
+    "details": "120م" ,
+    "price": "9000000" ,
+    "area": "وسط دير الزور" ,
+    "gar": "لاء" ,
+    "floor": "الارضي" ,
+    "Space": "م10" ,
+    "furnished ": "لا" ,
+    "Property": "ميلشيا قسد" 
+    
+    
+    
+    }
+    ,
+
+{
+    "city": "الرقة" ,
+    "details": "170م" ,
+    "price": "30000000" ,
+    "area": "ضاحية الرقة" ,
+    "gar": "نعم" ,
+    "floor": "الأول" ,
+    "Space": "م12" ,
+    "furnished ": "نعم" ,
+    "Property": "طابو" 
+    
+    
+    
+    }
+
+]
+
+

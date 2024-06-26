@@ -1,0 +1,82 @@
+*{
+
+margin: 0;
+
+}
+
+.table{
+
+background-color: antiquewhite;
+display: flex;
+justify-content: center;
+
+}
+
+
+.continer{
+
+width: 75%;  
+
+}
+table{
+
+    width: 100%;
+
+}
+
+table thead {
+
+background-color: rgb(20, 17, 194);
+
+}
+table thead tr{
+
+ height: 35px;
+
+}
+
+table tbody tr{
+
+background-color: rgba(255, 7, 7, 0.637); 
+
+}
+
+table tbody tr{
+
+text-align: center;
+width: 100%;
+
+}
+.text{
+
+list-style: none ;
+display: grid ; 
+grid-template-columns: repeat(3,1fr);
+ 
+}
+
+.textli {
+
+    margin: 10px 0px;
+
+}
+
+.img{
+
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+margin-bottom: 10px ;
+
+}
+
+img{
+
+width: 100px; ;
+
+}
+
+.hid{
+    display: none;
+}
